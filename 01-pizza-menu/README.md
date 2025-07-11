@@ -34,4 +34,4 @@ The application will open at [http://localhost:3000](http://localhost:3000).
 
 ---
 
-*This project is part of my React learning journey through Jonas Schmedtmann's Ultimate React Course.*
+_This project is part of my React learning journey through Jonas Schmedtmann's Ultimate React Course._
