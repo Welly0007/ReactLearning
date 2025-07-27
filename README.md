@@ -32,6 +32,21 @@ A multi-step progress indicator component focusing on state management and user 
 
 [📖 View detailed project documentation](./02-steps/README.md)
 
+### 03-travel-list
+
+A travel packing list application focusing on advanced state management and form handling.
+
+**Key Learning Topics:**
+
+- Advanced state management with arrays/objects
+- Form handling and controlled components
+- Array methods (map, filter, find)
+- Event handling and user interactions
+- Derived state and statistics
+- Dynamic array generation
+
+[📖 View detailed project documentation](./03-travel-list/README.md)
+
 ## Getting Started
 
 Each project is self-contained with its own `package.json` file. To run any project:
