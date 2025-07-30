@@ -47,6 +47,21 @@ A travel packing list application focusing on advanced state management and form
 
 [📖 View detailed project documentation](./03-travel-list/README.md)
 
+### 04-eat-n-split
+
+A bill splitting application focusing on component composition and state management between multiple components.
+
+**Key Learning Topics:**
+
+- Component composition and architecture
+- Lifting state up between components
+- Conditional rendering and UI states
+- Form handling across multiple components
+- Props drilling and component communication
+- State updates with objects and calculations
+
+[📖 View detailed project documentation](./04-eat-n-split/README.md)
+
 ## Getting Started
 
 Each project is self-contained with its own `package.json` file. To run any project:
